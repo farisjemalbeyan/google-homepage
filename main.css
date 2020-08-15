@@ -1,0 +1,90 @@
+body{
+    background: #fff;
+}
+
+body, html{
+    font-size: small;
+    width: 100%;
+}
+
+.main-body{
+    position: relative;
+}
+
+.google-top{
+    height: 40px;
+    text-align: end;
+    margin-top: 20px;
+}
+
+.google-image{
+    width: 100%;
+    text-align: center;
+}
+
+.google-input{
+    text-align: center;
+    width: 50%;
+    margin-top: 15px;
+    min-width: 400px;
+}
+
+#googleSearch{
+    font-size: 25px;
+    border-radius: 16px;
+    min-width: 400px;
+}
+
+.google-lang{
+    margin-top: 20px;
+    min-height: 120px;
+    text-align: center;
+}
+
+.google-lang a{
+    padding: 2px;
+    font-size: 14px;
+    text-align: center;
+   
+}
+
+.button-input{
+    margin-top: 20px;
+    
+}
+
+ul {
+    list-style-type: none;
+    margin-right: 40px;
+    margin-top: 30px;
+}
+
+li {
+    display: inline;
+    padding: 3px;
+}
+
+li a{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+#footer{
+    bottom: 0;
+    display: block;
+    min-height: 120px;
+    background-color: #f2f2f2;
+    position: absolute;
+    width: 100%;
+}
+
+.google-location{
+    min-height: 60px;
+    border-bottom: 1px solid #e4e4e4;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    text-align: left;
+}
+
