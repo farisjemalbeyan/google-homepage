@@ -88,3 +88,21 @@ li a{
     text-align: left;
 }
 
+.google-advertise{
+    min-width: 500px;
+}
+
+.left-adv{
+    width: 50%;
+    float: left;
+    text-align: left;
+    min-width: 400px;
+    align-items: center;
+    display: flex;
+}
+.right-adv{
+    width: 50%;
+    float: left;
+    text-align: right;
+    min-width: 400px;
+}
